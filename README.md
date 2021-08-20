@@ -9,7 +9,7 @@
 // MMMMMMMMMMMMMMMMMMWN0o;,:ll:,,;;:ldkOdc'......................;oONWWMMMMMMMMMMMMMMMMWXKNMMMMMMMMMMMM
 // MMMMMMMMMMMMMMMMWWXd:,,;:clc;;cc:,...............................;dXWWWMMMMMMMMMMMWMNl':xXWWMMMMMMMM
 // MMMMMMMMMMMMMMMWWKl,,,,,;;;;;;:;'..................................;xNWWMMMMMMMMMMMMK:...,o0NWMMMMMM
-// MMMMMMMMMMMMMMMMWx,',,'',,,,;,'.................'''''''''''..........cKWMMMMMMMMMMMWO'......ckXWMMMM
+// MMMMMMGuaiGuaiMMMMMMMMMWx,',,'',,,,;,'.................'''''''''''..........cKWMMMMMMMMMMMWO'......ckXWMMMM
 // MMMMMMMMMMMMMMMMXl,''''',,,,'..................'''''''''''''''........,OWMMMMMMMMMMNl.........;kNMMM
 // MMMMMMMMMMMMMMMWKc''''.''''.....................'''''''''''''''........'xNMWWMMMWWWk'..........cNMMM
 // MMMMMMMMMMMMMMMMK:'''.,c:...............................'''''''.........'dNWWMMWWWO;......... .dWMMM
@@ -50,4 +50,32 @@
 // MMMMMMMMMMMMMMMMMMMMWXdc:;,''''''''',;:cldxxlcclxNMMWMMMMMMMWWXo;,'':cc:,'''........',;cdONMMMMMMMMM
 // MMMMMMMMMMMMMMMMMMMMMWWNXK00OOOOOOO00KXNWWWWWWWWWMMMMMMMMMMMWWWNXK0KNWWNXK0OxxxxxxxkOKXWWMMMMMMMMMMM
 // 乖乖保平安MMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWMMMMMMWWWWMMMMMMMMMMMMMWWMMMWWWWMMMMMMMMWWMMWWMMMMMM乖乖保平安
+ ```
+
+
+ 佛祖
+
+ ```
+
+ //                           _
+//                        _ooOoo_
+//                       o8888888o
+//                       88" . "88
+//                       (| -_- |)
+//                       O\  =  /O
+//                    ____/`---'\____
+//                  .'  \\|     |//  `.
+//                 /  \\|||  :  |||//  \
+//                /  _||||| -:- |||||_  \
+//                |   | \\\  -  /'| |   |
+//                | \_|  `\`---'//  |_/ |
+//                \  .-\__ `-. -'__/-.  /
+//              ___`. .'  /--.--\  `. .'___
+//           ."" '<  `.___\_<|>_/___.' _> \"".
+//          | | :  `- \`. ;`. _/; .'/ /  .' ; |
+//          \  \ `-.   \_\_`. _.'_/_/  -' _.' /
+//===========`-.`___`-.__\ \___  /__.-'_.'_.-'================
+//                        `=--=-'                    
+//    佛祖保佑                                    永無Bug    
+//============================================================
  ```
