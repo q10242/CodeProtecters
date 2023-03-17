@@ -79,3 +79,69 @@
 //    佛祖保佑                                    永無Bug    
 //============================================================
  ```
+
+
+
+最可愛卡娜赫拉
+ ```
+//                                                       .....                                    ....                                                  
+//                                                   .,:lodddolc,.                            .;clodoolc;.                                              
+//                                                .'cdxkkkkkkkkkkxl'                       .;oxkkkkkkkkkkdl,.                                           
+//                                               'oxkkxdc;;;;coxkkkd;                     'oxkkkxoc::coxkkkxo'                                          
+//                                              ;dkkkd:..    ..;okkkd;                   'okkkxc'..  ..'lxkkkl.                                         
+//                                             ,dkkko,.        .'okkkd'                 .okkkd;.        .:xkkxc.                                        
+//                                            .okkkd,.          .cxkkxc.               .lxkkd;.          .lkkkd'                                        
+//                                            ;xkkx:.           .,dkkkl.               ;xkkx:.           .;xkkd,                                        
+//                                           .ckkko'             .okkko.              .okkko'            .;xkkx:                                        
+//                                           .ckkkl.             'okkkd'              ,dkkx:.            .;xkkkc                                        
+//                                           .lkkkl.             'dkkkd'              ;xkkd,.            .;xkkkc                                        
+//                                           .lkkkl.            .,dkkko.              :xkko'             .,dkkx:                                        
+//                                           .ckkko.            .;xkkkl.             .ckkkd'             .;xkkx,                                        
+//                                            :xkko'            .:xkkkc.              ckkko'             .lkkkd,                                        
+//                                            ;xkkd,.           .ckkkkl............. .ckkko'            .,dkkkd'                                        
+//                                            ,dkkx:.           .lkkkkxdddxxxxxxxdddooxkkko'            .:xkkkl.                                        
+//                                            .lkkxc.           .cxkkkkkkkkkkkkkkkkkkkkkkx:.            .lkkkx;                                         
+//                                           .,okkko.            .;clcc:;;,,;;;;;;:::ccc:'.             ,dkkkxc,'.                                      
+//                                       .,:ldxkkkko'              ...                .                .'okkkkkkxdoc;'.                                 
+//                                   ..;lxkkkkxdlc:'.                                                   ..;;:ldxkkkkkxdc,.                              
+//                                .,coxxkkxdl;'...                                                           ..';coxkkkkkdc,.                           
+//                              ':dxkkkxo:,..                                                                    ..';ldkkkkxo;.                         
+//                           .,lxkkkkdc,..                 ..........                   .......                      ..;oxkkkxo;.                       
+//                         .,oxkkkdc;..              ..';;:cllllloolc;..            ..;:cllllcccc:;,'..                 .,lxkkkxo,                      
+//                        .lxkkkd:..                .:dxkkkkkkkkkkkkkkc.            .:xkkkkkkkkkkkkkxdl'.                 .'lxkkkxl.                    
+//                       ,dkkkd:..                  .cdxxdoollccccccc;..            .':llccclllooddxkkd;.                   .,oxkkkd:.                  
+//                     .cxkkxl'.                     ..''....... ...                  .............'',..                      .;okkkko'                 
+//                    'okkkx:.                                           .......                                               ..:dkkkx;                
+//                   ,dkkkd;.                              ..'''..   ..            ...    ..','...                               .,okkkx,               
+//                  ;dkkxl'.      .......                .'cdxxxdl,..        ......   ...'cdxkkxo;.                .....          .'okkkx;              
+//                 :xkkxc.    .................         .'okkkkkkkd,      .;odxxxxl.    .lkkkkkkkx;.           .................   .,dkkkx,             
+//                :xkkxc.  .......................      .,dkkkkkkko.      'dkkkkkkd'    .ckkkkkkkkc.        ....................... .;xkkko.            
+//               ,dkkkl. ..........................      .,lxkkxdl'       .:xkkkkkc.     .;odxkxdc'.      .......................... .:xkkkc.           
+//              'okkkd,..............................      .',,..          .dkkkkk:         ..,'..      ...............................okkkx:           
+//              ;xkkx:................................      ..             'dkkkkx;            ..      ................................:xkkkd'          
+//              ckkko'................................     ..              :kkkkkd'             ..    ..................................okkkk:          
+//             .okkko..................................    .              .okkkkkd'              .    ..................................:xkkkl.         
+//             .dkkkc..................................        ,loo:.    .cxkkkkkk:    .;cl:.    ..  ...................................,dkkko.         
+//             'dkkkc..................................       ,xkkkx;   .lxkkkkkkkx:. .lkkkkl.   ..  ...................................'oOkkd'         
+//             ,xkkkc..................................   .   ,xkkkkc.'cxkkkkkkkkkkkoclxkkkkl.    .  .................................. 'oOkOd'         
+//             ,xkkkc..................................   .   .okkkkkxkkkkkkdlccdkkkkkkkkkko.     .   ................................. ,dOOOd.         
+//             'dkkkl. ...............................    ..   .cxkkkkkkkxo;.   .,codxxxdl,.     ..    .................................:kOOko.         
+//             .okkkd'  .............................      ..    .';clc:,.          .....        ..     .............................. .ckOOk:          
+//              ;xkkx:.   ..........................        ..              .',;;:::.           ..       ...........................   'dOOOx'          
+//              .lkkkd,.    .....................            ..            ,xkkkkkkkc           .          ........................   .lkOOkc.          
+//               ,dkkko,.       ...........                    ..          .,::::;;'.         .                .................     .ckOOOd'           
+//                ;xkkkd;.                                        ...                   .....                       .......         .:xOOOx,            
+//                 :xkkkxl'.                                             .............                                            ..lkOOOx,             
+//                  ;dkkkkxc'.                                                                                                   .'okOOOd,              
+//                   .:dkkkkxl,.                                                                                               .'cdkOOko'               
+//                     .;dkkkkxo:'..                                                                                        ..;oxOOOOxc.                
+//                       .;lxkkkkxdl:,...                                                                               ..';lxkOOOOxc.                  
+//                          .,cdkkkkkkxol:;,'....                                                               ....',,;cdxOOOOOkd:.                    
+//                             .':oxxkkkkkkkxxdolc:;,''..........                .                ........',;:cclodxkkOOOOOOOkdc'.                      
+//                                 ..,:ldxkkkkkkkkkkkkxxxdoollllcc:::::cccccccccccccc:::::cccccccccloddddxkkOOOOOOOOOOOkxdoc;'.                         
+//                                      ..',;clodxxkkkkkkkkkkkkkOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOkkxdoc::;,..                               
+//                                              ....',;:cccllloodddddxxxxxxxxxxxxxdddddxxxxxxxddoolllollc::;,'...                                       
+//                                                                 .............................                                                        
+//                                                                                                                                                      
+//
+ ```
